@@ -1,6 +1,6 @@
-# 1ELE713_SEM13_Assignment1_PneumaticSystems
+# 1ELE713_SEM17_Assignment1_ThermalSystems
 
-A Lista de exercícios sobre modelagem de sistemas pneumáticos encontra-se no arquivo 1ELE713-Sem13-Assignm1-SistemasPneumaticos-Lista1.pdf, neste repositório.
+A Lista de exercícios sobre modelagem de sistemas pneumáticos encontra-se no arquivo 1ELE713-Sem7-Assignm1-SistemasTermicos-Lista1.pdf, neste repositório.
 
 Observações:
 
